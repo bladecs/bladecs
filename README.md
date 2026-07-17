@@ -51,8 +51,14 @@ Saat ini aktif mengerjakan **Tugas Akhir** dan terbuka untuk proyek freelance.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bladecs&show_icons=true&theme=radical&hide_border=true" alt="Hafizh's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bladecs&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=bladecs&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bladecs&theme=radical" alt="Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bladecs&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bladecs&theme=radical" alt="Top Languages by Commit" />
 </p>
 
 ---
