@@ -7,6 +7,13 @@
   <a href="https://www.linkedin.com/in/hafizh-ahmad-al-mushoffi"><img alt="LinkedIn Hafizh Ahmad Al Mushoffi" src="https://img.shields.io/badge/LinkedIn-Hafizh%20Ahmad%20Al%20Mushoffi-2a323a?style=flat-square&labelColor=14181c"></a>
 </p>
 
+<p align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bladecs&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="bladecs trophies" />
+  </a>
+</p>
+
 I'm an industrial informatics engineering student at Politeknik Manufaktur Bandung. I build web apps with Laravel and Vue.js, mobile apps with Flutter and Kotlin, and write automated tests with Selenium and Pytest.
 
 Right now I'm working on my final project (Tugas Akhir), and I'm open to freelance work.
@@ -18,6 +25,29 @@ Right now I'm working on my final project (Tugas Akhir), and I'm open to freelan
   <br>
   <sub>Python tests run on Pytest.</sub>
 </p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Weekly Development (WakaTime)
+
+<!--START_SECTION:waka-->
+<!-- WakaTime metrics akan otomatis muncul di sini -->
+<!--END_SECTION:waka-->
+
+</td>
+<td width="50%" valign="top">
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Aktivitas terbaru akan otomatis muncul di sini -->
+<!--END_SECTION:activity-->
+
+</td>
+</tr>
+</table>
 
 ## On GitHub
 
@@ -88,6 +118,19 @@ Right now I'm working on my final project (Tugas Akhir), and I'm open to freelan
 | [Whitebox_Testing_Dompet_Digital](https://github.com/bladecs/Whitebox_Testing_Dompet_Digital) | White-box testing of a digital wallet app | `Python` |
 | [Test_SQA](https://github.com/bladecs/Test_SQA) | Software quality assurance tests | `PHP` |
 
-## Contact
+<br>
 
-For a freelance project, email [bladecs86@gmail.com](mailto:bladecs86@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/hafizh-ahmad-al-mushoffi).
+<p align="center">
+  <!-- GitHub Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bladecs/bladecs/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bladecs/bladecs/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bladecs/bladecs/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  For a freelance project, email <a href="mailto:bladecs86@gmail.com">bladecs86@gmail.com</a> or message me on <a href="https://www.linkedin.com/in/hafizh-ahmad-al-mushoffi">LinkedIn</a>.
+</p>
